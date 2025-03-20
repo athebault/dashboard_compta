@@ -1,5 +1,6 @@
-# Fichier de configuration intial
+# app/config.py
 
+# Fichier de configuration intial
 file_name = "./data/RES_U_Résultat_d'Activité_241213_124232.xlsx"
 nom_utilisateur = "THEBAULT A"
 max_contrib = 6000
