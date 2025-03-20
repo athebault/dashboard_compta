@@ -14,4 +14,3 @@ def format_nombre(valeur):
             ",", " "
         )
     return valeur
-

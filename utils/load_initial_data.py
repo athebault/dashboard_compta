@@ -3,7 +3,7 @@
 # utils/load_initial_data.py
 
 import pandas as pd
-from config import file_name
+from app.config import file_name
 from .data_processing import prepare_data
 
 

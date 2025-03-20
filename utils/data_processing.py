@@ -1,7 +1,7 @@
 # utils/data_processing.py
 import re
 import pandas as pd
-from config import (
+from app.config import (
     code_ca,
     code_matieres_premieres,
     code_note_frais,

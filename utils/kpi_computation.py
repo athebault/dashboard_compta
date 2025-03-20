@@ -2,7 +2,7 @@
 
 import pandas as pd
 from .data_processing import categorise_charges
-from config import (
+from app.config import (
     code_ca_prestation,
     code_ca_formation,
     code_matieres_premieres,
